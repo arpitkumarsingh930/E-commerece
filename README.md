@@ -238,51 +238,12 @@ npm run test:watch
 npm run test:coverage
 ```
 
-### Frontend Testing
-- Manual testing across different browsers
-- Responsive design testing
-- Performance testing with Lighthouse
-
-## 📊 Performance Optimization
-
-### Frontend
-- **Lazy Loading**: Images and components
-- **Minification**: CSS and JavaScript
-- **CDN**: External libraries from CDN
-- **Caching**: Browser caching strategies
-
-### Backend
-- **Database Indexing**: Optimized MongoDB queries
-- **Caching**: Redis for session storage
-- **Compression**: Gzip compression
-- **Pagination**: Efficient data loading
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Apple**: Design inspiration and philosophy
-- **Tailwind CSS**: Utility-first CSS framework
-- **Font Awesome**: Icon library
-- **MongoDB**: Database solution
-- **Stripe**: Payment processing
-
 ## 📞 Support
 
 For support and questions:
 - Create an issue in the repository
-- Email: support@example.com
-- Documentation: [Wiki](https://github.com/username/repo/wiki)
+- Email: arpitkumarsingh930@gmail.com
+- Documentation: https://github.com/arpitkumarsingh930
 
 ---
 
